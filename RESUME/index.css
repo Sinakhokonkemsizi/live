@@ -1,0 +1,26 @@
+body {background-color:gold;
+    font-family:Arial;font-size:medium;
+
+
+
+}
+h1{background-color:aqua;color:blueviolet}
+h2{background-color:aqua;color:blueviolet}
+h3{background-color:aqua;color:blueviolet}
+
+.hero-btn{
+    display: inline inline-block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid white;
+    padding: 12px 34px;
+    font: 13px;
+    background: transparent;
+    position:relative;
+    cursor: pointer;
+}
+.hero-btn:hover{
+    border: 1px solid #fff;
+    background-color: #fff;
+    transition:2s;
+}
